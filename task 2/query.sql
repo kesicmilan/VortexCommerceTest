@@ -1,0 +1,1 @@
+ALTER TABLE `cms_page` ADD `page_heading` VARCHAR(255) NOT NULL AFTER `content_heading`;
